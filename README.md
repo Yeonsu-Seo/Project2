@@ -2,8 +2,11 @@
 ## CNN을 이용한 이미지 합성 여부 예측 모델 및 이를 활용한 게임
 
 <p>CNN을 이용하여 이미지 합성 여부 판단하는 모델을 만들었습니다. 그리고 모델을 저장하여 사용자가 저장된 모델과 이미지 합성 여부를 맞추며 겨루는 게임 프로그램을 만들었습니다.</p>
-<p>이미지 데이터셋(DataSet3) 출처:https://www.kaggle.com/datasets/shivamardeshna/real-and-fake-images-dataset-for-image-forensics</p>
+
+<p>이 프로젝트에서 CNN을 선택하여 활용한 이유는 다음과 같습니다. CNN은 주로 이미지나 영상 데이터 분석에 많이 사용되는 딥러닝 알고리즘입니다. CNN은 인간의 시각적 처리 방식에서 영감을 받아, 이미지를 인식하고 분류하는 데 뛰어난 성능을 보입니다.</p>
+
 <p>이미지 데이터셋 설명: 사람의 얼굴 이미지들이 담겨있는 폴더입니다.</p>
+<p>이미지 데이터셋(DataSet3) 출처:https://www.kaggle.com/datasets/shivamardeshna/real-and-fake-images-dataset-for-image-forensics</p>
 <br/>
 
 ## $\bf{\color{#6580DD}목차}$
